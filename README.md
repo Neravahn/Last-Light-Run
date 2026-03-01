@@ -1,4 +1,4 @@
-# Cave Escape — 2D Platformer
+# Last Light Run
 
 A 2D platformer where the player navigates hazards and terrain to reach the cave exit and complete the level.
 
