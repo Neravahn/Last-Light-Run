@@ -1,0 +1,1 @@
+other.in_cave = true;
